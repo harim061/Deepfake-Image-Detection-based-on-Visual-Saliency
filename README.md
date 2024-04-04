@@ -10,13 +10,11 @@
 딥페이크 검출 상황에서 공통적으로 사용될 수 있으며, 다양한 비교실험을 통해 본 논문의 
 제안 방법이 효과적임을 보였다.  
 
-![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/5f9e2f45-8e96-47c0-8be6-780509df93ec)
-![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/4804762c-0803-4716-a11e-93bf48bd4007)
-![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/ee527f53-86b0-4f02-8e3e-796eaec1cc7c)
-
-![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/32910cba-7b4c-4326-b2a3-04da6ae65c79)
-![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/e16d00c5-04bf-4bed-895c-272fb8d31752)
-![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/cf184b66-0cf6-4ba5-9367-38e354c152dd)
-![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/952f2780-7b34-498d-a3f2-8ebe9f4779d1)
-
-![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/eca3b5e0-ada9-4c1b-a16d-733b18a19197)
+![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/de3d7536-861d-422a-99f5-404df7a01724)
+![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/61ddc0ca-8e6f-4f01-a335-a99c173b5b00)
+![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/78ebed1d-8565-45e4-9c7d-c8eccd17705a)
+![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/3b93846c-2fa6-4951-84ff-0517c0316860)
+![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/bcc2fa12-f304-42ee-b690-903f7ba1ae0c)
+![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/1c4da953-f916-4991-8bd9-bd0df1520f08)
+![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/f8d4897a-783a-4ef8-93c6-88d027b340b0)
+![image](https://github.com/harim061/Deepfake-Image-Detection-based-on-Visual-Saliency/assets/90364684/98b7a3ac-9790-4c3b-aa9d-e692e7995136)
